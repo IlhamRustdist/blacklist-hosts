@@ -16,4 +16,4 @@ Total blocked domains
 | [`hosts/porn/stevenblack-hosts.txt`](https://raw.githubusercontent.com/cabrata/blacklist-hosts/main/hosts/porn/stevenblack-hosts.txt) | 296196 |
 | [`hosts/unified/stevenblack-hosts.txt`](https://raw.githubusercontent.com/cabrata/blacklist-hosts/main/hosts/unified/stevenblack-hosts.txt) | 221458 |
 
-🕒 Last Updated: `2025-07-21 20:19 UTC`
+🕒 Last Updated: `2025-07-21 22:17 UTC`
