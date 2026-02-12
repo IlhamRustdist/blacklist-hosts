@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-12 21:28:58 UTC                        #
+# Last updated: 2026-02-12 22:25:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sourire.brav7mon3ky.ru
+127.0.0.1	discovery.brav7mon3ky.ru
 127.0.0.1	kde-exe.with.playit.plus
 127.0.0.1	ouryearofmoney001.duckdns.org
 127.0.0.1	sseeo.org
@@ -56491,4 +56493,4 @@
 127.0.0.1	dekelins.com
 127.0.0.1	flyinglotuss.shop
 127.0.0.1	okx.death-angel.shop
-# Number of entries: 56485
+# Number of entries: 56487
