@@ -88,7 +88,7 @@ jobs:
             echo ""
             echo "**Total Blocked Domains:** $total"
             echo ""
-            echo "🕒 Last Updated: \`$(date -u '+%Y-%m-%d %H:%M UTC')\`"
+            echo "🕒 Last Updated: \`$(TZ="Asia/Jakarta" date '+%Y-%m-%d %H:%M WIB')\`"
           } >> README.md
 
       - name: Commit Changes
