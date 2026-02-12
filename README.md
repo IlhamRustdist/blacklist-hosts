@@ -28,4 +28,4 @@ Curated multi-source domain block registry.
 
 **Total Blocked Domains:** 4258563
 
-🕒 Last Updated: `2026-02-12 14:49 UTC`
+🕒 Last Updated: `2026-02-12 15:54 UTC`
