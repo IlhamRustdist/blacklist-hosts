@@ -122,4 +122,10 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "chore: update hosts registry"
-git push origin main
+
+for i in {1..5}; do
+  git pull --rebase origin main && break
+  sleep 2
+done
+
+git push --force-with-lease origin main
