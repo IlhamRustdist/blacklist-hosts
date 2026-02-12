@@ -1,5 +1,0 @@
-! Title: Blacklist Zionist Domain
-
-
-! ============= Israel ============
-||*.il^
