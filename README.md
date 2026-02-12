@@ -12,15 +12,15 @@ Curated multi-source domain block registry (RAW).
 | [`hosts/ads-track/oisd-big.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/oisd-big.txt) | 265271 |
 | [`hosts/ads-track/oisd-small.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/oisd-small.txt) | 50757 |
 | [`hosts/hagezi/dga.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/dga.txt) | 1993643 |
-| [`hosts/hagezi/doh.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/doh.txt) | 14037 |
-| [`hosts/hagezi/tif.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/tif.txt) | 608941 |
-| [`hosts/hagezi/ultimate.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/ultimate.txt) | 301801 |
+| [`hosts/hagezi/doh.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/doh.txt) | 13978 |
+| [`hosts/hagezi/tif.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/tif.txt) | 609725 |
+| [`hosts/hagezi/ultimate.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/ultimate.txt) | 302482 |
 | [`hosts/policy/gambling.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/policy/gambling.txt) | 85282 |
-| [`hosts/policy/piracy.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/policy/piracy.txt) | 11731 |
+| [`hosts/policy/piracy.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/policy/piracy.txt) | 11734 |
 | [`hosts/policy/porn.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/policy/porn.txt) | 155187 |
 | [`hosts/policy/social.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/policy/social.txt) | 888 |
-| [`hosts/security/abuse-threatfox.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/abuse-threatfox.txt) | 47168 |
-| [`hosts/security/abuse-urlhaus.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/abuse-urlhaus.txt) | 505 |
+| [`hosts/security/abuse-threatfox.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/abuse-threatfox.txt) | 47170 |
+| [`hosts/security/abuse-urlhaus.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/abuse-urlhaus.txt) | 506 |
 | [`hosts/security/blocklistproject-malware.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/blocklistproject-malware.txt) | 435155 |
 | [`hosts/security/blocklistproject-phishing.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/blocklistproject-phishing.txt) | 190222 |
 | [`hosts/security/blocklistproject-ransomware.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/blocklistproject-ransomware.txt) | 1904 |
@@ -32,9 +32,9 @@ Curated multi-source domain block registry (RAW).
 | [`hosts/security/proxy-list.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/proxy-list.txt) | 81587 |
 | [`hosts/security/spam-tlds.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/spam-tlds.txt) | 435 |
 | [`hosts/security/tor-exit.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/tor-exit.txt) | 1336 |
-| [`hosts/security/urlhaus.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/urlhaus.txt) | 505 |
+| [`hosts/security/urlhaus.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/security/urlhaus.txt) | 506 |
 | [`hosts/unified/stevenblack.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/unified/stevenblack.txt) | 79081 |
 
-**Total Domains (Sum of Lists):** 5651495
+**Total Domains (Sum of Lists):** 5652908
 
-Last Updated: 2026-02-13 05:37 WIB
+Last Updated: 2026-02-13 06:36 WIB
