@@ -83,7 +83,7 @@ jobs:
             ["regional/chn-adrules"]="https://raw.githubusercontent.com/Cats-Team/AdRules/master/dns.txt"
             ["regional/chn-antiad"]="https://anti-ad.net/easylist.txt"
 
-            ["regional/hun-hufilter"]="https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt"
+            ["regional/hun-hufilter"]="https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter-hosts.txt"
 
             ["regional/idn-abpindo"]="https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt"
 
@@ -147,14 +147,17 @@ jobs:
             #   --fail \
             #   "$url" -o "$dest"
             download() {
-              local url="$1"
-              local out="$2"
+            local url="$1"
+            local out="$2"
 
-              curl -L -A "Mozilla/5.0" --fail --retry 3 "$url" -o "$out" \
-              || curl -L -A "Mozilla/5.0" --fail --retry 3 \
-              "$(echo "$url" | sed 's#cdn.jsdelivr.net/gh#raw.githubusercontent.com#; s#@latest##')" \
-             -o "$out"
+            if curl -L -A "Mozilla/5.0" --retry 3 --fail "$url" -o "$out"; then
+            echo "✓ OK"
+            else
+            echo "⚠ Failed: $url"
+            echo "" > "$out"
+            fi
             }
+
             download "$url" "$dest"
           done
 
