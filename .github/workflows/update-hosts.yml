@@ -48,6 +48,84 @@ jobs:
             ["hagezi/nosafesearch"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nosafesearch.txt"
             ["hagezi/doh"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt"
             ["hagezi/nsfw"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt"
+               # =========================
+            # GENERAL - Full Coverage
+            # =========================
+
+            ["ads-track/1hosts-lite"]="https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
+            ["ads-track/1hosts-xtra"]="https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt"
+
+            ["ads-track/adguard-dns"]="https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt"
+            ["ads-track/adguard-popup"]="https://adguardteam.github.io/HostlistsRegistry/assets/filter_19.txt"
+
+            ["ads-track/awavenue"]="https://raw.githubusercontent.com/awaavenue/adblockrules/master/hosts.txt"
+            ["ads-track/danpollock"]="https://someonewhocares.org/hosts/zero/hosts"
+            ["ads-track/peterlowe"]="https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext"
+
+            ["ads-track/shadowwhisperer-tracking"]="https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Tracking"
+
+            ["ads-track/oisd-small"]="https://small.oisd.nl"
+
+            # =========================
+            # OTHER
+            # =========================
+
+            ["other/anti-push"]="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiPushNotifications.txt"
+            ["other/game-console"]="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblock.txt"
+            ["other/smart-tv"]="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SmartTV.txt"
+
+            ["other/no-google"]="https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt"
+
+            # =========================
+            # REGIONAL - COMPLETE
+            # =========================
+
+            ["regional/chn-adrules"]="https://raw.githubusercontent.com/Cats-Team/AdRules/master/dns.txt"
+            ["regional/chn-antiad"]="https://anti-ad.net/easylist.txt"
+
+            ["regional/hun-hufilter"]="https://raw.githubusercontent.com/hufilter/hufilter/master/hufilter.txt"
+
+            ["regional/idn-abpindo"]="https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt"
+
+            ["regional/irn-persianblocker"]="https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt"
+
+            ["regional/isr-easylist"]="https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt"
+
+            ["regional/kor-listkr"]="https://raw.githubusercontent.com/List-KR/List-KR/master/filter.txt"
+            ["regional/kor-youslist"]="https://raw.githubusercontent.com/yous/YousList/master/youslist.txt"
+
+            ["regional/lit-easylist"]="https://raw.githubusercontent.com/easylist/EasyListLithuania/master/easylistlithuania.txt"
+
+            ["regional/mkd-pihole"]="https://raw.githubusercontent.com/iosifache/MacedonianPiHoleBlocklist/main/hosts"
+
+            ["regional/nor-nordic"]="https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NordicFilters.txt"
+
+            ["regional/pol-cert"]="https://hole.cert.pl/domains/domains.txt"
+            ["regional/pol-pihole"]="https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt"
+
+            ["regional/swe-frellwits"]="https://raw.githubusercontent.com/frellwits/filter-lists/master/swedish-hosts.txt"
+
+            ["regional/tur-adlist"]="https://raw.githubusercontent.com/AdguardTeam/TurkishFilter/master/hosts.txt"
+            ["regional/tur-adhosts"]="https://raw.githubusercontent.com/BarisKayaoglu/TurkishAdHosts/master/hosts"
+
+            ["regional/vnm-abpvn"]="https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt"
+
+            # =========================
+            # SECURITY - COMPLETE
+            # =========================
+
+            ["security/phishing-urlhaus"]="https://urlhaus.abuse.ch/downloads/hostfile/"
+            ["security/phishing-army"]="https://phishing.army/download/phishing_army_blocklist_extended.txt"
+
+            ["security/nocoin"]="https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
+
+            ["security/malware-shadowwhisperer"]="https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Malware"
+
+            ["security/stalkerware"]="https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts"
+
+            ["security/big-malware"]="https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts"
+
+            ["security/scam-durablenapkin"]="https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt"
           )
 
           rm -rf hosts
