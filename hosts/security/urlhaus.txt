@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-12 18:15:23 (UTC)                      #
+# Last updated: 2026-02-12 18:22:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -15,7 +15,6 @@
 127.0.0.1	7i84od4b.elastic-refurbish.digital
 127.0.0.1	a7k3z.unt452hub.coupons
 127.0.0.1	abissnet.net
-127.0.0.1	acaviationsupplies.com
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	access.skaparade.com
 127.0.0.1	ace-project.org
@@ -196,7 +195,6 @@
 127.0.0.1	inomailerhe.net
 127.0.0.1	ircftp.net
 127.0.0.1	isiore.com.co
-127.0.0.1	ita-airwaysva.com
 127.0.0.1	itssprout.com
 127.0.0.1	izocab.com
 127.0.0.1	izogard.com
@@ -236,8 +234,8 @@
 127.0.0.1	meat-9q2t.unt452hub.coupons
 127.0.0.1	merctransfers.gradycares.com
 127.0.0.1	metrics.gocloudmaps.com
+127.0.0.1	miskolc-dugulaselharitas.hu
 127.0.0.1	mitreart.com
-127.0.0.1	mmm4x8p.kolos56tomat.coupons
 127.0.0.1	mn.34509.su
 127.0.0.1	mobshah.com
 127.0.0.1	modulowinapp.com
@@ -506,4 +504,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 500
+# Number of entries: 498
