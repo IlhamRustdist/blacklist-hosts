@@ -6,9 +6,9 @@ Curated multi-source domain block registry.
 
 | File | Domains |
 |------|----------|
-| [`hosts/ads-track/adguard.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/adguard.txt) | 146794 |
+| [`hosts/ads-track/adguard.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/adguard.txt) | 146826 |
 | [`hosts/ads-track/d3host.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/d3host.txt) | 133 |
-| [`hosts/ads-track/oisd`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/oisd) | 294364 |
+| [`hosts/ads-track/oisd`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/ads-track/oisd) | 270845 |
 | [`hosts/fakenews/stevenblack.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/fakenews/stevenblack.txt) | 81546 |
 | [`hosts/gambling/stevenblack.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/gambling/stevenblack.txt) | 85217 |
 | [`hosts/hagezi/Anti-Piracy`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/Anti-Piracy) | 11732 |
@@ -22,10 +22,10 @@ Curated multi-source domain block registry.
 | [`hosts/hagezi/Threat-Intelligence-Feeds`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/Threat-Intelligence-Feeds) | 599054 |
 | [`hosts/hagezi/nsfw`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/nsfw) | 67601 |
 | [`hosts/hagezi/ultimate`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/hagezi/ultimate) | 303661 |
-| [`hosts/porn/oisd-nsfw`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/porn/oisd-nsfw) | 244325 |
+| [`hosts/porn/oisd-nsfw`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/porn/oisd-nsfw) | 259913 |
 | [`hosts/porn/stevenblack.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/porn/stevenblack.txt) | 155148 |
 | [`hosts/unified/stevenblack.txt`](https://raw.githubusercontent.com/IlhamRustdist/blacklist-hosts/main/hosts/unified/stevenblack.txt) | 79008 |
 
-**Total Blocked Domains:** 4269404
+**Total Blocked Domains:** 4261505
 
-🕒 Last Updated: `2026-02-12 11:41 UTC`
+🕒 Last Updated: `2026-02-12 13:11 UTC`
