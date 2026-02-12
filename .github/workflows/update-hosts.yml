@@ -61,11 +61,23 @@ jobs:
 
             echo "Downloading $path"
 
-            curl -A "Mozilla/5.0" \
-                 --retry 4 \
-                 --retry-delay 5 \
-                 --connect-timeout 30 \
-                 -fsSL "$url" -o "$dest"
+            # curl -L \
+            #   -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            #   -H "Accept: text/plain" \
+            #   --retry 5 \
+            #   --retry-delay 5 \
+            #   --fail \
+            #   "$url" -o "$dest"
+            download() {
+              local url="$1"
+              local out="$2"
+
+              curl -L -A "Mozilla/5.0" --fail --retry 3 "$url" -o "$out" \
+              || curl -L -A "Mozilla/5.0" --fail --retry 3 \
+              "$(echo "$url" | sed 's#cdn.jsdelivr.net/gh#raw.githubusercontent.com#; s#@latest##')" \
+             -o "$out"
+            }
+            download "$url" "$dest"
           done
 
       - name: Generate README
