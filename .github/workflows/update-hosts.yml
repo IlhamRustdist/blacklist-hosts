@@ -54,28 +54,12 @@ jobs:
             local out="$2"
 
             if curl -L --retry 3 --connect-timeout 20 --max-time 120 \
-              -A "Mozilla/5.0" --fail "$url" -o "$out"; then
+              -A "Mozilla/5.0" "$url" -o "$out"; then
               echo "✓ OK"
             else
               echo "⚠ Failed: $url"
               rm -f "$out"
             fi
-          }
-
-          normalize() {
-            file="$1"
-
-            sed -i -E '
-              s#^\|\|([^/\^\$]+).*#0.0.0.0 \1#;
-              s#^([^#].*\..*)$#0.0.0.0 \1#;
-            ' "$file"
-
-            sed -i -E '
-              s#^(0\.0\.0\.0|127\.0\.0\.1)[[:space:]]+([^[:space:]]+).*#0.0.0.0 \2#
-            ' "$file"
-
-            grep -E '^0\.0\.0\.0 ' "$file" | sort -u > "$file.tmp"
-            mv "$file.tmp" "$file"
           }
 
           for path in "${!SOURCES[@]}"; do
@@ -84,20 +68,22 @@ jobs:
 
             mkdir -p "$(dirname "$dest")"
             echo "Downloading $path"
-
-            download "$url" "$dest" || true
-
-            if [ -f "$dest" ]; then
-              normalize "$dest"
-              [ ! -s "$dest" ] && rm -f "$dest"
-            fi
+            download "$url" "$dest"
           done
 
-          # MASTER MERGE
+          # ========= MASTER MERGE =========
           mkdir -p hosts/merged
+
           find hosts -type f ! -path "*/merged/*" -exec cat {} + \
-            | grep -E '^0\.0\.0\.0 ' \
-            | sort -u > hosts/merged/master.txt
+          | grep -vE '^\s*($|!|#|@@)' \
+          | sed -E '
+              s#^\|\|([^/\^\$]+).*#\1#;
+              s#^(0\.0\.0\.0|127\.0\.0\.1)[[:space:]]+([^[:space:]]+).*#\2#;
+          ' \
+          | grep -E '\.' \
+          | sort -u \
+          | awk '{print "0.0.0.0 "$0}' \
+          > hosts/merged/master.txt
 
       - name: Generate README
         shell: bash
@@ -105,11 +91,19 @@ jobs:
           set -Eeuo pipefail
 
           BASE="https://raw.githubusercontent.com/${{ github.repository }}/main"
-          total=0
 
           count_domains() {
-            awk '{print $2}' "$1" | sort -u | wc -l
+            grep -vE '^\s*($|!|#|@@)' "$1" 2>/dev/null \
+            | sed -E '
+                s#^\|\|([^/\^\$]+).*#\1#;
+                s#^(0\.0\.0\.0|127\.0\.0\.1)[[:space:]]+([^[:space:]]+).*#\2#;
+            ' \
+            | grep -E '\.' \
+            | sort -u \
+            | wc -l
           }
+
+          total=0
 
           cat > README.md <<EOF
           # Blacklist Hosts
@@ -129,7 +123,7 @@ jobs:
           done < <(find hosts -type f | sort)
 
           echo "" >> README.md
-          echo "**Total Domains (All Files Combined):** $total" >> README.md
+          echo "**Total Domains (Sum of Individual Lists):** $total" >> README.md
           echo "" >> README.md
           echo "Last Updated: $(TZ=Asia/Jakarta date '+%Y-%m-%d %H:%M WIB')" >> README.md
 
