@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-12 19:00:10 (UTC)                      #
+# Last updated: 2026-02-12 20:25:11 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -17,6 +17,7 @@
 127.0.0.1	abissnet.net
 127.0.0.1	acc.jiangsujiaxue.com
 127.0.0.1	access.skaparade.com
+127.0.0.1	accesstelematics.com
 127.0.0.1	ace-project.org
 127.0.0.1	acms.saleseos.com
 127.0.0.1	admin.byte.in.ua
@@ -24,7 +25,6 @@
 127.0.0.1	adobeappsxpyrf-update.click
 127.0.0.1	adver.com.br
 127.0.0.1	agence-immobiliere-lyon.com
-127.0.0.1	ahnbbd.com
 127.0.0.1	alarmline.com.br
 127.0.0.1	alineeleuterio.com.br
 127.0.0.1	aliyundunupdate.xyz
@@ -41,7 +41,6 @@
 127.0.0.1	areyouready.co.za
 127.0.0.1	artacom.com.br
 127.0.0.1	asl-company.ru
-127.0.0.1	assin6k7n.rye93shishaty.coupons
 127.0.0.1	atasapka.com.tr
 127.0.0.1	audicontadores.com
 127.0.0.1	augsburg-auto.com
@@ -65,9 +64,11 @@
 127.0.0.1	bridgeroad.maverickpreviews.com
 127.0.0.1	brightworks.cz
 127.0.0.1	bvaco.com
+127.0.0.1	caldas-pires.pt
 127.0.0.1	cambodiatouristservice.com
 127.0.0.1	cat.xiaoshabi.nl
 127.0.0.1	catbaparadisehotel.com.vn
+127.0.0.1	cdaonline.com.ar
 127.0.0.1	cdn.file6.goodid.com
 127.0.0.1	cdn.semifinal-matching.coupons
 127.0.0.1	celebratingseniors.net
@@ -90,6 +91,7 @@
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	computersupportexperts.com
 127.0.0.1	connects-magiceden.io
+127.0.0.1	contentmentfairnesspesky.com
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	corporacioncrf.com
 127.0.0.1	crimefreesoftware.com
@@ -158,10 +160,12 @@
 127.0.0.1	filerit.com
 127.0.0.1	filezilla.cc
 127.0.0.1	first-security-verden.de
+127.0.0.1	fitforevercavan.ie
 127.0.0.1	fjolml5b.dursamurai.digital
 127.0.0.1	flyingmutts.com
 127.0.0.1	frvrefrigeracao.com.br
 127.0.0.1	ftp.ywxww.net
+127.0.0.1	fukt.link
 127.0.0.1	fullstacknir.com
 127.0.0.1	fz.tiansys.cn
 127.0.0.1	galerisenimutiara.com
@@ -170,6 +174,7 @@
 127.0.0.1	get.actiwated.win
 127.0.0.1	glacier.art67quarrel.coupons
 127.0.0.1	globaltechbilling.com
+127.0.0.1	gobiotechpestcontrol.com
 127.0.0.1	gordon-and-son.com
 127.0.0.1	grikom.info
 127.0.0.1	gutando.com
@@ -180,6 +185,7 @@
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
 127.0.0.1	hjekd8c.huowdy.com
+127.0.0.1	hobobot.net
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
@@ -202,7 +208,6 @@
 127.0.0.1	joyeriatauro.com
 127.0.0.1	jungle.pricepirate.coupons
 127.0.0.1	jyothishmathi.in
-127.0.0.1	k4n7a3n.favour128influen.coupons
 127.0.0.1	kamin-premium.ru
 127.0.0.1	karoonpc.com
 127.0.0.1	kavacanada.ca
@@ -223,10 +228,10 @@
 127.0.0.1	local-update.com
 127.0.0.1	lomejordesalamanca.es
 127.0.0.1	lon-01.dlo4d.com
+127.0.0.1	londonairportstransfer.co.uk
 127.0.0.1	lumen.dailyoffers.coupons
 127.0.0.1	lumen.pucker8reined.coupons
 127.0.0.1	m-global.hksty.net
-127.0.0.1	mag1q9t.rye93shishaty.coupons
 127.0.0.1	maidforyou1985.com
 127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
@@ -248,13 +253,14 @@
 127.0.0.1	my-expense.nishant-labs.com
 127.0.0.1	n.vs108.com
 127.0.0.1	ncxps.com
-127.0.0.1	ndown2.ra2ol.com
+127.0.0.1	ndirection.kr
 127.0.0.1	nectar.dle759zone.coupons
 127.0.0.1	nelees.com
 127.0.0.1	nimbus93.overplaymarbles.com
 127.0.0.1	nmp.semifinal-matching.coupons
 127.0.0.1	noithaticon.vn
 127.0.0.1	nova.rewardwallet.coupons
+127.0.0.1	nusatoyota.co.id
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	o24o.ru
 127.0.0.1	ojang.pe.kr
@@ -293,7 +299,7 @@
 127.0.0.1	panychurasc0.com
 127.0.0.1	papeoficial.com.br
 127.0.0.1	parmisbuilding.com
-127.0.0.1	pay.aqiu6.com
+127.0.0.1	pburl.link
 127.0.0.1	pcupd.com
 127.0.0.1	petal.beautybundle.coupons
 127.0.0.1	pid.fly160.com
@@ -345,7 +351,9 @@
 127.0.0.1	sec.xiaoshabi.nl
 127.0.0.1	separadordecc.com
 127.0.0.1	sg123.net
+127.0.0.1	sgindustries.lk
 127.0.0.1	shaderm.com
+127.0.0.1	sharecodepro.com
 127.0.0.1	shop.mediasova.ru
 127.0.0.1	shqdown.ggzuhao.com
 127.0.0.1	simbhaolisugars.in
@@ -406,6 +414,7 @@
 127.0.0.1	update.volam2005pk.com
 127.0.0.1	upsinfo2025.com
 127.0.0.1	vagler.ru
+127.0.0.1	vcc-library.uk
 127.0.0.1	velvet.beautybundle.coupons
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
@@ -449,6 +458,7 @@
 127.0.0.1	www.longfeng188.com
 127.0.0.1	www.luuk-lifestyle.eu
 127.0.0.1	www.medises.co.kr
+127.0.0.1	www.mevetlab.cl
 127.0.0.1	www.mixturro.com
 127.0.0.1	www.mobimpex.ro
 127.0.0.1	www.myvcart.com
@@ -460,6 +470,7 @@
 127.0.0.1	www.opolis.io
 127.0.0.1	www.pin-up0045.com
 127.0.0.1	www.playtown.co.za
+127.0.0.1	www.rbcfort.com
 127.0.0.1	www.reifenquick.de
 127.0.0.1	www.saf-oil.ru
 127.0.0.1	www.salonmarketing.ca
@@ -482,7 +493,6 @@
 127.0.0.1	www.xn--on3b15m2lco2u.com
 127.0.0.1	www.zamilgroups.com
 127.0.0.1	www.zhikey.com
-127.0.0.1	x77r44p.rye93shishaty.coupons
 127.0.0.1	xai830k.com
 127.0.0.1	xemhang.vn
 127.0.0.1	xenon.studio
@@ -501,4 +511,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 495
+# Number of entries: 505
