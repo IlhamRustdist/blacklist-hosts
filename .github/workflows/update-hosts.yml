@@ -1,66 +1,110 @@
-name: Update Hosts Files
+name: Update Hosts Registry
 
 on:
   schedule:
-    - cron: '0 * * * *' 
-  workflow_dispatch: 
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-hosts
+  cancel-in-progress: true
 
 jobs:
-  update-hosts:
+  update:
+    name: Fetch & Build Hosts
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download and update hosts files
+      - name: Fetch Sources
+        shell: bash
         run: |
-          mkdir -p hosts/ads-track hosts/fakenews hosts/gambling hosts/porn hosts/unified
+          set -euo pipefail
 
-          curl -sSL "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt" -o hosts/ads-track/adguard.txt
-          curl -sSL "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts" -o hosts/fakenews/stevenblack-hosts.txt
-          curl -sSL "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts" -o hosts/gambling/stevenblack-hosts.txt
-          curl -sSL "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts" -o hosts/porn/stevenblack-hosts.txt
-          curl -sSL "http://sbc.io/hosts/hosts" -o hosts/unified/stevenblack-hosts.txt
-          curl -sSL "https://raw.githubusercontent.com/Turtlecute33/toolz/refs/heads/master/src/d3host.adblock" -o hosts/ads-track/d3host.txt
+          declare -A SOURCES=(
+            ["ads-track/adguard.txt"]="https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt"
+            ["ads-track/d3host.txt"]="https://raw.githubusercontent.com/Turtlecute33/toolz/master/src/d3host.adblock"
+            ["fakenews/stevenblack.txt"]="https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts"
+            ["gambling/stevenblack.txt"]="https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts"
+            ["porn/stevenblack.txt"]="https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts"
+            ["unified/stevenblack.txt"]="https://sbc.io/hosts/hosts"
+            ["porn/oisd-nsfw"]="https://nsfw.oisd.nl"
+            ["ads-track/oisd"]="https://big.oisd.nl"
+            ["hagezi/ultimate"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt"
+            ["hagezi/Threat Intelligence Feeds"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/tif.txt"
+            ["hagezi/Dynamic DNS blocking"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt"
+            ["hagezi/Badware Hoster blocking"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt"
+            ["hagezi/Most Abused TLDs"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt"
+            ["hagezi/Newly Registered Domains"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dga30.txt"
+            ["hagezi/Gambling"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/gambling.txt"
+            ["hagezi/Anti Piracy"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/anti.piracy.txt"
+            ["hagezi/Safesearch not supported"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nosafesearch.txt"
+            ["hagezi/DoH VPN TOR Proxy Bypass"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/doh-vpn-proxy-bypass.txt"
+            ["hagezi/nsfw"]="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/nsfw.txt"
+          )
 
-      - name: Generate README.md with stats
+          rm -rf hosts
+          mkdir -p hosts
+
+          for path in "${!SOURCES[@]}"; do
+            url="${SOURCES[$path]}"
+            mkdir -p "hosts/$(dirname "$path")"
+            echo "Downloading: $path"
+            curl -fsSL "$url" -o "hosts/$path"
+          done
+
+      - name: Generate README
+        shell: bash
         run: |
-          echo '# blacklist-hosts' > README.md
-          echo '' >> README.md
-          echo 'This repo contains a list to block specific domains.' >> README.md
-          echo '' >> README.md
-          echo '## 📊 Statistics' >> README.md
-          echo '' >> README.md
-          echo 'Total blocked domains' >> README.md
-          echo '' >> README.md
-          echo '| Files | Total Domains |' >> README.md
-          echo '|-----------|----------------|' >> README.md
+          set -euo pipefail
 
           BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/main"
 
-          find hosts -type f | sort | while read file; do
-            count=$(grep -vE '^\s*(#|!)' "$file" | grep -vE '^\s*$' | wc -l)
-            raw_url="${BASE_URL}/${file}"
-            echo "| [\`$file\`]($raw_url) | $count |" >> README.md
-          done
+          total=0
 
-          echo '' >> README.md
-          echo "🕒 Last Updated: \`$(date -u '+%Y-%m-%d %H:%M UTC')\`" >> README.md
-          
+          {
+            echo "# Blacklist Hosts"
+            echo ""
+            echo "Curated multi-source domain block registry."
+            echo ""
+            echo "## 📊 Statistics"
+            echo ""
+            echo "| File | Domains |"
+            echo "|------|----------|"
+          } > README.md
 
-      - name: Configure Git
+          while IFS= read -r file; do
+            count=$(grep -vE '^\s*(#|!)' "$file" | grep -vE '^\s*$' | wc -l || true)
+            total=$((total + count))
+            echo "| [\`$file\`](${BASE_URL}/$file) | $count |" >> README.md
+          done < <(find hosts -type f | sort)
+
+          {
+            echo ""
+            echo "**Total Blocked Domains:** $total"
+            echo ""
+            echo "🕒 Last Updated: \`$(date -u '+%Y-%m-%d %H:%M UTC')\`"
+          } >> README.md
+
+      - name: Commit Changes
+        shell: bash
         run: |
+          set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push if changes
-        run: |
-          git add hosts/
+          git add hosts README.md
+
           if git diff --cached --quiet; then
             echo "No changes detected."
-          else
-            git add README.md
-            git commit -m "chore: update hosts files"
-            git push
+            exit 0
           fi
-          
+
+          git commit -m "chore: update hosts registry"
+          git push
