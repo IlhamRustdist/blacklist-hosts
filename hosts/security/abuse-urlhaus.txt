@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 19:37:05 (UTC)                      #
+# Last updated: 2026-02-13 20:34:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -60,9 +60,11 @@
 127.0.0.1	bbb.xfrwu.cn
 127.0.0.1	benn4x.brisk7dento.coupons
 127.0.0.1	beyond.trak8lin4zo.ru
+127.0.0.1	bfacollege.co.in
 127.0.0.1	biducaconfeitos.com.br
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
+127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	bombayonline.in
@@ -72,7 +74,6 @@
 127.0.0.1	bridgeroad.maverickpreviews.com
 127.0.0.1	brightworks.cz
 127.0.0.1	bvaco.com
-127.0.0.1	c9n4p.connect8mathem.coupons
 127.0.0.1	cambodiatouristservice.com
 127.0.0.1	carry.plax482verdi.coupons
 127.0.0.1	cat.xiaoshabi.nl
@@ -118,6 +119,7 @@
 127.0.0.1	data.yhydl.com
 127.0.0.1	dcrun.co.uk
 127.0.0.1	dcwblida.dz
+127.0.0.1	definitely-not.gay
 127.0.0.1	delp-heizungsbau.de
 127.0.0.1	derekludlow.com
 127.0.0.1	device.redirec.com
@@ -157,6 +159,7 @@
 127.0.0.1	dyzc.cn
 127.0.0.1	easybrand.vn
 127.0.0.1	echo918.discount5den.coupons
+127.0.0.1	edlerkranz.be5t2lancrown.ru
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
 127.0.0.1	embedone.com
@@ -201,10 +204,8 @@
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
 127.0.0.1	hjekd8c.huowdy.com
-127.0.0.1	hobobot.net
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
-127.0.0.1	hseda.com
 127.0.0.1	i.404.pm
 127.0.0.1	icoffeecloud.com
 127.0.0.1	id3basketball.com
@@ -261,7 +262,6 @@
 127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
 127.0.0.1	mango72k.valuevault8.coupons
-127.0.0.1	marker.mile163stone.coupons
 127.0.0.1	marlin204.promoportal4.coupons
 127.0.0.1	meat-9q2t.unt452hub.coupons
 127.0.0.1	meetvideogoogle.com
@@ -352,6 +352,7 @@
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
+127.0.0.1	quickfix.du5tmanrepai7.ru
 127.0.0.1	r332a8q.buckshot3hha.coupons
 127.0.0.1	r4ven.unt452hub.coupons
 127.0.0.1	r5k0t.flint09marko.coupons
@@ -378,7 +379,6 @@
 127.0.0.1	riderspin.com
 127.0.0.1	ripple.dailyoffers.coupons
 127.0.0.1	riptide306.reward2rocket.coupons
-127.0.0.1	rnove5.drift2cargo.coupons
 127.0.0.1	robertrowe.com
 127.0.0.1	rocket.gadgetgrab.coupons
 127.0.0.1	royalindiancurryclub.com
@@ -449,6 +449,7 @@
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	toolshare.com.tr
+127.0.0.1	topking.be5t2lancrown.ru
 127.0.0.1	tr0ff3.cn
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	trtmyanmar.com
@@ -479,7 +480,6 @@
 127.0.0.1	vortex641.savvy3spree.coupons
 127.0.0.1	vrajras.com
 127.0.0.1	vulkanvegas1000.sajautohaus.com
-127.0.0.1	w1nd-ll.whirl189wind.coupons
 127.0.0.1	w7c2q.glint39parko.coupons
 127.0.0.1	warkopshopfb138.cc
 127.0.0.1	web-q9t2n.kolos56tomat.coupons
@@ -525,7 +525,6 @@
 127.0.0.1	www.opolis.io
 127.0.0.1	www.pin-up0045.com
 127.0.0.1	www.playtown.co.za
-127.0.0.1	www.rbcfort.com
 127.0.0.1	www.reifenquick.de
 127.0.0.1	www.saf-oil.ru
 127.0.0.1	www.salonmarketing.ca
@@ -575,4 +574,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 569
+# Number of entries: 568
