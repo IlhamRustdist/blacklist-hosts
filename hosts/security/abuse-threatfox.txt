@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 12:56:58 UTC                        #
+# Last updated: 2026-02-13 14:28:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c1ear-v.clint9vargo.coupons
+127.0.0.1	signal.clint9vargo.coupons
+127.0.0.1	gor.emiraride.com
+127.0.0.1	gor.megaexdistribuidora.com.br
+127.0.0.1	m3q7v.clint9vargo.coupons
+127.0.0.1	rnove5.drift2cargo.coupons
+127.0.0.1	67ocfzzz.hangesulka.digital
+127.0.0.1	iws3hffo.hangesulka.digital
+127.0.0.1	vector.drift2cargo.coupons
 127.0.0.1	z9t2d.drift2cargo.coupons
 127.0.0.1	harbor.plint7marco.coupons
 127.0.0.1	k4m8q.plint7marco.coupons
@@ -56628,5 +56637,4 @@
 127.0.0.1	xalo432.ddns.net
 127.0.0.1	squeaxz.top
 127.0.0.1	maoismn.top
-127.0.0.1	email.atmgift.com
-# Number of entries: 56623
+# Number of entries: 56631
