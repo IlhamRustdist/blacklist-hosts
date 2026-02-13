@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 10:41:07 (UTC)                      #
+# Last updated: 2026-02-13 11:20:21 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -246,6 +246,7 @@
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
 127.0.0.1	launcher1.muonliness6.com
+127.0.0.1	legend.griv8ton5za.ru
 127.0.0.1	lenx.tukitravel.com
 127.0.0.1	lindenappliances.co.za
 127.0.0.1	lindnerelektroanlagen.de
@@ -577,4 +578,4 @@
 127.0.0.1	zoom.hopquatet.net
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
-# Number of entries: 571
+# Number of entries: 572
