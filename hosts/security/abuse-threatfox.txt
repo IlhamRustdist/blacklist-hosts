@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 00:22:10 UTC                        #
+# Last updated: 2026-02-13 03:01:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	asfegfrwg4t42t-58664.portmap.host
 127.0.0.1	vision.klon2par6si.ru
 127.0.0.1	freiheit.drim9sol3ka.ru
 127.0.0.1	lumiere.drim9sol3ka.ru
@@ -56496,7 +56497,4 @@
 127.0.0.1	rema.earise.pro
 127.0.0.1	evelmarin.duckdns.org
 127.0.0.1	st-yea.gl.at.ply.gg
-127.0.0.1	security.flavregurads.com
-127.0.0.1	dekelins.com
-127.0.0.1	flyinglotuss.shop
-# Number of entries: 56493
+# Number of entries: 56491
