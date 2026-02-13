@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 17:04:19 UTC                        #
+# Last updated: 2026-02-13 18:47:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	stonework.ja8u2rudila.ru
+127.0.0.1	douceurpure.dy5trops7uffy.ru
+127.0.0.1	softcloud.dy5trops7uffy.ru
+127.0.0.1	telemetry.getupi.in.net
+127.0.0.1	updates.getupi.in.net
+127.0.0.1	tv88.us.com
+127.0.0.1	getupi.in.net
+127.0.0.1	releases-scale.gl.at.ply.gg
+127.0.0.1	nx402bji.digimatrix.digital
+127.0.0.1	5rfgvs2q.digimatrix.digital
+127.0.0.1	darkclouds.drop8rain.ru
+127.0.0.1	truesir.duckdns.org
 127.0.0.1	calc-rn1.connect8mathem.coupons
 127.0.0.1	trustconnectsoftware.com
 127.0.0.1	formula.connect8mathem.coupons
@@ -56704,8 +56716,4 @@
 127.0.0.1	login.rootvk.messager.my
 127.0.0.1	e.messager.my
 127.0.0.1	top-fwz1.messager.my
-127.0.0.1	hoksha-41399.portmap.host
-127.0.0.1	cofik60057-64752.portmap.host
-127.0.0.1	px.zcidc.net
-127.0.0.1	inverterpos.duckdns.org
-# Number of entries: 56702
+# Number of entries: 56710

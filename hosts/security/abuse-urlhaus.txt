@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 17:32:08 (UTC)                      #
+# Last updated: 2026-02-13 18:49:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -68,7 +68,6 @@
 127.0.0.1	book.rollingvideogames.com
 127.0.0.1	bracell.latitude.net.br
 127.0.0.1	breeze.travelvoucher.coupons
-127.0.0.1	breeze.whirl189wind.coupons
 127.0.0.1	bridgeroad.maverickpreviews.com
 127.0.0.1	brightworks.cz
 127.0.0.1	bvaco.com
@@ -88,7 +87,6 @@
 127.0.0.1	checkinetverifk.com
 127.0.0.1	chinaapper.com
 127.0.0.1	chiptune.com
-127.0.0.1	chuguadventures.co.tz
 127.0.0.1	cieharryalbert.fr
 127.0.0.1	cinder.way17call-in.coupons
 127.0.0.1	cinder930.bonus7basket.coupons
@@ -136,6 +134,7 @@
 127.0.0.1	dl.dzqzd.com
 127.0.0.1	dl.natgo.cn
 127.0.0.1	donkeytourscroatia.com
+127.0.0.1	douceurpure.dy5trops7uffy.ru
 127.0.0.1	down.54nb.com
 127.0.0.1	down.fwqlt.com
 127.0.0.1	down.pcclear.com
@@ -257,7 +256,6 @@
 127.0.0.1	m-global.hksty.net
 127.0.0.1	m1w1mwdm.dozerebelt.digital
 127.0.0.1	m2-q8v.flint09marko.coupons
-127.0.0.1	m3q7v.clint9vargo.coupons
 127.0.0.1	mag1q9t.rye93shishaty.coupons
 127.0.0.1	maidforyou1985.com
 127.0.0.1	main.dsn.ovh
@@ -324,7 +322,6 @@
 127.0.0.1	opal57x.savvy3spree.coupons
 127.0.0.1	openaigrok.com
 127.0.0.1	opencart.notebookparcalari.com
-127.0.0.1	oracle.fortune23tv.coupons
 127.0.0.1	orbit.flash97all.coupons
 127.0.0.1	orbit.quicksavings.coupons
 127.0.0.1	our.wolfeadvisory.com
@@ -336,7 +333,6 @@
 127.0.0.1	papeoficial.com.br
 127.0.0.1	parmisbuilding.com
 127.0.0.1	pass5x1m.favour128influen.coupons
-127.0.0.1	pay.aqiu6.com
 127.0.0.1	pburl.link
 127.0.0.1	pcupd.com
 127.0.0.1	petal.beautybundle.coupons
@@ -352,7 +348,6 @@
 127.0.0.1	polar9dash.bargainbridge1.coupons
 127.0.0.1	polonyauniversiteleri.com.tr
 127.0.0.1	posts-luxs.com
-127.0.0.1	pr0ph3t.fortune23tv.coupons
 127.0.0.1	prism.gadgetgrab.coupons
 127.0.0.1	proship.ae
 127.0.0.1	public.demo.securecloudsandbox.com
@@ -431,12 +426,12 @@
 127.0.0.1	stdown.dinju.com
 127.0.0.1	steam66.cn
 127.0.0.1	stonecradle.com
+127.0.0.1	stonework.ja8u2rudila.ru
 127.0.0.1	studiogioeli.it
 127.0.0.1	summit.dealfinder.coupons
 127.0.0.1	supercleanspb.ru
 127.0.0.1	support.clz.kr
 127.0.0.1	svirtual.sanviatorperu.edu.pe
-127.0.0.1	swiftfusion.tech
 127.0.0.1	t0veek.brisk7dento.coupons
 127.0.0.1	t8aak3m.prong8tatsky.coupons
 127.0.0.1	tajalrayhan.com
@@ -475,7 +470,6 @@
 127.0.0.1	upsinfo2025.com
 127.0.0.1	vagler.ru
 127.0.0.1	vcc-library.uk
-127.0.0.1	vector.drift2cargo.coupons
 127.0.0.1	vedantawisdom.org
 127.0.0.1	velvet.beautybundle.coupons
 127.0.0.1	versaclean.com.br
@@ -567,6 +561,7 @@
 127.0.0.1	xai830k.com
 127.0.0.1	xanax.enzostress.st
 127.0.0.1	xdcq3.com
+127.0.0.1	xemhang.vn
 127.0.0.1	xenon.studio
 127.0.0.1	xerpa.flint09marko.coupons
 127.0.0.1	xn--90abegbttpjb3bzb2j.xn--p1ai
@@ -587,4 +582,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 581
+# Number of entries: 576
