@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 20:20:21 UTC                        #
+# Last updated: 2026-02-13 21:25:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	deepdark.cav1ng5cript.ru
+127.0.0.1	toutsavoir.f2bricat9sar.ru
+127.0.0.1	ironsteel.f2bricat9sar.ru
+127.0.0.1	mainrepair.du5tmanrepai7.ru
 127.0.0.1	quickfix.du5tmanrepai7.ru
 127.0.0.1	edlerkranz.be5t2lancrown.ru
 127.0.0.1	topking.be5t2lancrown.ru
@@ -56719,5 +56723,4 @@
 127.0.0.1	ec2-3-8-147-54.eu-west-2.compute.amazonaws.com
 127.0.0.1	amaprox.click
 127.0.0.1	fog.death-angel.shop
-127.0.0.1	test.woet.ip-ddns.com
-# Number of entries: 56714
+# Number of entries: 56717

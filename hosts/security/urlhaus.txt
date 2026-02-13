@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 20:34:19 (UTC)                      #
+# Last updated: 2026-02-13 21:26:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -106,6 +106,7 @@
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	corepilatesnicaragua.com
 127.0.0.1	corporacioncrf.com
+127.0.0.1	cotecsecuritygroup.com
 127.0.0.1	crimefreesoftware.com
 127.0.0.1	crystal.travelvoucher.coupons
 127.0.0.1	crystalpvp.ru
@@ -119,6 +120,7 @@
 127.0.0.1	data.yhydl.com
 127.0.0.1	dcrun.co.uk
 127.0.0.1	dcwblida.dz
+127.0.0.1	deepdark.cav1ng5cript.ru
 127.0.0.1	definitely-not.gay
 127.0.0.1	delp-heizungsbau.de
 127.0.0.1	derekludlow.com
@@ -217,6 +219,7 @@
 127.0.0.1	innlive.in
 127.0.0.1	inomailerhe.net
 127.0.0.1	ircftp.net
+127.0.0.1	ironsteel.f2bricat9sar.ru
 127.0.0.1	ironwood812.bargainbridge1.coupons
 127.0.0.1	isiore.com.co
 127.0.0.1	itssprout.com
@@ -260,6 +263,7 @@
 127.0.0.1	mag1q9t.rye93shishaty.coupons
 127.0.0.1	maidforyou1985.com
 127.0.0.1	main.dsn.ovh
+127.0.0.1	mainrepair.du5tmanrepai7.ru
 127.0.0.1	mandarin.net.au
 127.0.0.1	mango72k.valuevault8.coupons
 127.0.0.1	marlin204.promoportal4.coupons
@@ -450,6 +454,7 @@
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	toolshare.com.tr
 127.0.0.1	topking.be5t2lancrown.ru
+127.0.0.1	toutsavoir.f2bricat9sar.ru
 127.0.0.1	tr0ff3.cn
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	trtmyanmar.com
@@ -574,4 +579,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 568
+# Number of entries: 573
