@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 08:33:46 UTC                        #
+# Last updated: 2026-02-13 08:56:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	koenig.tron6val4ky.ru
+127.0.0.1	zpwtceh.com
 127.0.0.1	clartã©.tron6val4ky.ru
 127.0.0.1	huu.emiraride.com
 127.0.0.1	huu.megaexdistribuidora.com.br
@@ -133,7 +135,6 @@
 127.0.0.1	borecas.com
 127.0.0.1	verolix.com
 127.0.0.1	vlxx.us.org
-127.0.0.1	schneiderrides.ch
 127.0.0.1	remc9095j.duckdns.org
 127.0.0.1	zukunft.blen7kor2za.ru
 127.0.0.1	voyage.klon2par6si.ru
@@ -56620,4 +56621,4 @@
 127.0.0.1	mission-dude.gl.at.ply.gg
 127.0.0.1	z10nx711111111-61801.portmap.host
 127.0.0.1	venom-lazarus.life
-# Number of entries: 56614
+# Number of entries: 56615

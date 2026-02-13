@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 08:43:13 (UTC)                      #
+# Last updated: 2026-02-13 09:41:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -188,6 +188,7 @@
 127.0.0.1	glacier.art67quarrel.coupons
 127.0.0.1	glanz.trak8lin4zo.ru
 127.0.0.1	globaltechbilling.com
+127.0.0.1	gobiotechpestcontrol.com
 127.0.0.1	gordon-and-son.com
 127.0.0.1	grikom.info
 127.0.0.1	gutando.com
@@ -231,8 +232,8 @@
 127.0.0.1	kavacanada.ca
 127.0.0.1	khavar.com
 127.0.0.1	khoancatbetong89.vn
-127.0.0.1	kimyen.net
 127.0.0.1	kobilen.icu
+127.0.0.1	koenig.tron6val4ky.ru
 127.0.0.1	konsor.ru
 127.0.0.1	kramersmarionnettes.com
 127.0.0.1	krisidev.com
@@ -488,7 +489,6 @@
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.backupallfresh2030.com
-127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.cippe.com.cn
@@ -543,6 +543,7 @@
 127.0.0.1	x1-n9q.prong8tatsky.coupons
 127.0.0.1	x49k7m.buckshot3hha.coupons
 127.0.0.1	x77r44p.rye93shishaty.coupons
+127.0.0.1	xai830k.com
 127.0.0.1	xanax.enzostress.st
 127.0.0.1	xdcq3.com
 127.0.0.1	xenon.studio
@@ -564,4 +565,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 558
+# Number of entries: 559
