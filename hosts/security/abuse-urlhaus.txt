@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-13 14:39:09 (UTC)                      #
+# Last updated: 2026-02-13 15:39:08 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -14,6 +14,7 @@
 127.0.0.1	2.off3.ru
 127.0.0.1	655rd9or.caretouched.digital
 127.0.0.1	a6mm9t.glint39parko.coupons
+127.0.0.1	a6t9q.whirl189wind.coupons
 127.0.0.1	a7k3z.unt452hub.coupons
 127.0.0.1	abissnet.net
 127.0.0.1	acaviationsupplies.com
@@ -68,6 +69,7 @@
 127.0.0.1	book.rollingvideogames.com
 127.0.0.1	bracell.latitude.net.br
 127.0.0.1	breeze.travelvoucher.coupons
+127.0.0.1	breeze.whirl189wind.coupons
 127.0.0.1	bridgeroad.maverickpreviews.com
 127.0.0.1	brightworks.cz
 127.0.0.1	bvaco.com
@@ -143,6 +145,7 @@
 127.0.0.1	download.kaobeitu.com
 127.0.0.1	download.pdf00.cn
 127.0.0.1	download.pdf00.com
+127.0.0.1	download.suxiazai.com
 127.0.0.1	downloads.beaconvistamedical.com
 127.0.0.1	dowonline.ru
 127.0.0.1	dreamwatchevent.com
@@ -257,6 +260,7 @@
 127.0.0.1	main.dsn.ovh
 127.0.0.1	mandarin.net.au
 127.0.0.1	mango72k.valuevault8.coupons
+127.0.0.1	marker.mile163stone.coupons
 127.0.0.1	marlin204.promoportal4.coupons
 127.0.0.1	meat-9q2t.unt452hub.coupons
 127.0.0.1	meetvideogoogle.com
@@ -322,6 +326,7 @@
 127.0.0.1	our.wolfeadvisory.com
 127.0.0.1	owlcity.ru
 127.0.0.1	p3.zbjimg.com
+127.0.0.1	p8x4n.mile163stone.coupons
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	panychurasc0.com
 127.0.0.1	papeoficial.com.br
@@ -413,6 +418,7 @@
 127.0.0.1	sonnyangel.us
 127.0.0.1	sourire.brav7mon3ky.ru
 127.0.0.1	sparrow.way17call-in.coupons
+127.0.0.1	st0ne-rn.mile163stone.coupons
 127.0.0.1	static.ilclock.com
 127.0.0.1	static.topxgun.com
 127.0.0.1	static.youdm.cn
@@ -575,4 +581,4 @@
 127.0.0.1	zephyr41.overplaymarbles.com
 127.0.0.1	zhigao5191.com
 127.0.0.1	zptjv.com
-# Number of entries: 569
+# Number of entries: 575

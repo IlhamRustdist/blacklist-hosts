@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 14:28:37 UTC                        #
+# Last updated: 2026-02-13 15:32:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	breeze.whirl189wind.coupons
+127.0.0.1	a6t9q.whirl189wind.coupons
+127.0.0.1	st0ne-rn.mile163stone.coupons
+127.0.0.1	marker.mile163stone.coupons
+127.0.0.1	p8x4n.mile163stone.coupons
 127.0.0.1	c1ear-v.clint9vargo.coupons
 127.0.0.1	signal.clint9vargo.coupons
 127.0.0.1	gor.emiraride.com
@@ -56631,10 +56636,4 @@
 127.0.0.1	px.zcidc.net
 127.0.0.1	inverterpos.duckdns.org
 127.0.0.1	data.death-angel.shop
-127.0.0.1	amassb.top
-127.0.0.1	safeguarddelusion.life
-127.0.0.1	checkfivem.com
-127.0.0.1	xalo432.ddns.net
-127.0.0.1	squeaxz.top
-127.0.0.1	maoismn.top
-# Number of entries: 56631
+# Number of entries: 56630
