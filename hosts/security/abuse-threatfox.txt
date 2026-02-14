@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-14 10:18:23 UTC                        #
+# Last updated: 2026-02-14 11:17:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	x8p3a.blint8darvo.coupons
+127.0.0.1	securityalarms.us.com
+127.0.0.1	nhl.it.com
+127.0.0.1	natur-klang.waldlied.coupons
 127.0.0.1	gruen-blatt.waldlied.coupons
 127.0.0.1	coffre-fort.noitresor.coupons
 127.0.0.1	mon-tresor.noitresor.coupons
@@ -56737,4 +56741,4 @@
 127.0.0.1	msasteelalloys.cc
 127.0.0.1	programs-realty.gl.at.ply.gg
 127.0.0.1	series-segments.gl.at.ply.gg
-# Number of entries: 56731
+# Number of entries: 56735
