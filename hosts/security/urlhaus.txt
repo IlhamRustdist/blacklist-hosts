@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 05:40:13 (UTC)                      #
+# Last updated: 2026-02-14 06:49:22 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -99,7 +99,6 @@
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	computersupportexperts.com
 127.0.0.1	connects-magiceden.io
-127.0.0.1	contentmentfairnesspesky.com
 127.0.0.1	continentalgroup.net.in
 127.0.0.1	controlhomecr.com
 127.0.0.1	corporacioncrf.com
@@ -173,7 +172,6 @@
 127.0.0.1	farschid.de
 127.0.0.1	file.blackint3.com
 127.0.0.1	file.edunet.ac
-127.0.0.1	file.uhsea.com
 127.0.0.1	filerit.com
 127.0.0.1	filezilla.cc
 127.0.0.1	finesse.plon6var1ty.ru
@@ -207,6 +205,7 @@
 127.0.0.1	hass-8r3p.plax482verdi.coupons
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
+127.0.0.1	hobobot.net
 127.0.0.1	horizon.plon6var1ty.ru
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
@@ -244,6 +243,7 @@
 127.0.0.1	kavacanada.ca
 127.0.0.1	khavar.com
 127.0.0.1	khoancatbetong89.vn
+127.0.0.1	kimyen.net
 127.0.0.1	kobilen.icu
 127.0.0.1	koenig.tron6val4ky.ru
 127.0.0.1	konsor.ru
@@ -285,6 +285,7 @@
 127.0.0.1	mobshah.com
 127.0.0.1	modulowinapp.com
 127.0.0.1	mogimall.com
+127.0.0.1	mond-schein.stolzmond.coupons
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
 127.0.0.1	my-expense.nishant-labs.com
@@ -349,7 +350,6 @@
 127.0.0.1	posts-luxs.com
 127.0.0.1	pr0ph3t.fortune23tv.coupons
 127.0.0.1	primedatahost4.lol
-127.0.0.1	promo-libre.ventdoux.coupons
 127.0.0.1	proship.ae
 127.0.0.1	proveedoradeproyectosysoluciones.com
 127.0.0.1	public.demo.securecloudsandbox.com
@@ -391,6 +391,7 @@
 127.0.0.1	sancaktepekombiservis.com
 127.0.0.1	save.jnrsmcu.com
 127.0.0.1	scainseto.com.br
+127.0.0.1	schenckel.com.br
 127.0.0.1	scorpcasinos.com
 127.0.0.1	sdh.ro
 127.0.0.1	sdvgpro.ru
@@ -412,6 +413,7 @@
 127.0.0.1	soft.110route.com
 127.0.0.1	softcatalog.ru
 127.0.0.1	softcloud.dy5trops7uffy.ru
+127.0.0.1	softswapp.com
 127.0.0.1	solstice77.reward2rocket.coupons
 127.0.0.1	solutelco.com
 127.0.0.1	sonnyangel.us
@@ -423,6 +425,7 @@
 127.0.0.1	static.youdm.cn
 127.0.0.1	stdown.dinju.com
 127.0.0.1	steam66.cn
+127.0.0.1	stern-fahrt.stolzmond.coupons
 127.0.0.1	stille.fron4tek7ly.ru
 127.0.0.1	stonecradle.com
 127.0.0.1	stonework.ja8u2rudila.ru
@@ -492,7 +495,6 @@
 127.0.0.1	w1nd-ll.whirl189wind.coupons
 127.0.0.1	w7c2q.glint39parko.coupons
 127.0.0.1	warkopshopfb138.cc
-127.0.0.1	wearjora.com
 127.0.0.1	web-q9t2n.kolos56tomat.coupons
 127.0.0.1	webcstore.pw
 127.0.0.1	website.mypetapp.co.za
@@ -589,4 +591,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 583
+# Number of entries: 585
