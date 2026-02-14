@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 19:19:05 (UTC)                      #
+# Last updated: 2026-02-14 20:27:13 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -44,6 +44,7 @@
 127.0.0.1	artacom.com.br
 127.0.0.1	asl-company.ru
 127.0.0.1	assin6k7n.rye93shishaty.coupons
+127.0.0.1	atasapka.com.tr
 127.0.0.1	atlas906.valuevault8.coupons
 127.0.0.1	audicontadores.com
 127.0.0.1	augsburg-auto.com
@@ -106,7 +107,6 @@
 127.0.0.1	cs.go.kg
 127.0.0.1	csg-app.com
 127.0.0.1	ct3-24.ru
-127.0.0.1	cxr.tukitravel.com
 127.0.0.1	d.14yaa.com
 127.0.0.1	d.wanyouxi7.com
 127.0.0.1	dansorium.gr
@@ -122,6 +122,7 @@
 127.0.0.1	dexios.co.za
 127.0.0.1	dezcom.com
 127.0.0.1	dhnconstrucciones.com.ar
+127.0.0.1	dialkwik.in
 127.0.0.1	discovery.brav7mon3ky.ru
 127.0.0.1	disk.accord1key.cn
 127.0.0.1	divvanews.com
@@ -129,6 +130,7 @@
 127.0.0.1	dl.aginjector.com
 127.0.0.1	dl.asis.io
 127.0.0.1	dl.dzqzd.com
+127.0.0.1	dl.natgo.cn
 127.0.0.1	donkeytourscroatia.com
 127.0.0.1	donner.plar9ten2zo.ru
 127.0.0.1	douceurpure.dy5trops7uffy.ru
@@ -151,6 +153,7 @@
 127.0.0.1	dweixin.cn
 127.0.0.1	dyzc.cn
 127.0.0.1	easybrand.vn
+127.0.0.1	ebenezersecurelinks.com
 127.0.0.1	echo3.brisk4tango.coupons
 127.0.0.1	echo918.discount5den.coupons
 127.0.0.1	edlerkranz.be5t2lancrown.ru
@@ -198,7 +201,6 @@
 127.0.0.1	grikom.info
 127.0.0.1	gupixlot.lol
 127.0.0.1	gutando.com
-127.0.0.1	h0m0-vvex.homo483geneous.coupons
 127.0.0.1	harbor.plint7marco.coupons
 127.0.0.1	hasalltalent.com
 127.0.0.1	hass-8r3p.plax482verdi.coupons
@@ -297,6 +299,7 @@
 127.0.0.1	noithaticon.vn
 127.0.0.1	nssss6p3t.buckshot3hha.coupons
 127.0.0.1	numbers-23.plax482verdi.coupons
+127.0.0.1	nusatoyota.co.id
 127.0.0.1	nx402bji.digimatrix.digital
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	nylon6burst.bonus7basket.coupons
@@ -329,9 +332,7 @@
 127.0.0.1	opencart.notebookparcalari.com
 127.0.0.1	oracle.fortune23tv.coupons
 127.0.0.1	orion.onl
-127.0.0.1	owlcity.ru
 127.0.0.1	p3.zbjimg.com
-127.0.0.1	p8x1m.homo483geneous.coupons
 127.0.0.1	p8x4n.mile163stone.coupons
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	panychurasc0.com
@@ -344,7 +345,6 @@
 127.0.0.1	pin-up0045.com
 127.0.0.1	planetariumobil.ro
 127.0.0.1	plasma707.promoportal4.coupons
-127.0.0.1	play.mclighthouse.ir
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	polar9dash.bargainbridge1.coupons
@@ -361,6 +361,8 @@
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
 127.0.0.1	quickfix.du5tmanrepai7.ru
+127.0.0.1	quicrob.com
+127.0.0.1	r2k6d.plea36slavneck.coupons
 127.0.0.1	r332a8q.buckshot3hha.coupons
 127.0.0.1	r5k0t.flint09marko.coupons
 127.0.0.1	r5m2x.fortune23tv.coupons
@@ -410,6 +412,7 @@
 127.0.0.1	simbhaolisugars.in
 127.0.0.1	sk-comtel.com
 127.0.0.1	skanswers.com
+127.0.0.1	skillnorequired.cc
 127.0.0.1	smartermail.host
 127.0.0.1	soft.110route.com
 127.0.0.1	softcatalog.ru
@@ -474,6 +477,7 @@
 127.0.0.1	update.volam2005pk.com
 127.0.0.1	upsinfo2025.com
 127.0.0.1	vagler.ru
+127.0.0.1	vcc-library.uk
 127.0.0.1	vector.drift2cargo.coupons
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
@@ -495,6 +499,7 @@
 127.0.0.1	web-q9t2n.kolos56tomat.coupons
 127.0.0.1	webcstore.pw
 127.0.0.1	website.mypetapp.co.za
+127.0.0.1	widexenmexico.com.mx
 127.0.0.1	windomstatetheater.com
 127.0.0.1	wittenhorst.eu
 127.0.0.1	wunder.griv8ton5za.ru
@@ -506,12 +511,12 @@
 127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
-127.0.0.1	www.cippe.com.cn
 127.0.0.1	www.crazywickedaddiction.com
 127.0.0.1	www.cutting-edge.in
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.flybirdexpbd.com
+127.0.0.1	www.healthsouthdothan.com
 127.0.0.1	www.hostingcloud.science
 127.0.0.1	www.hseda.com
 127.0.0.1	www.intelligradeeducation.vicentecisnerospub.com
@@ -586,4 +591,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 580
+# Number of entries: 585
