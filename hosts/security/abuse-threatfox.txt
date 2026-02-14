@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-14 07:19:35 UTC                        #
+# Last updated: 2026-02-14 08:31:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nuit-douce.revesage.coupons
+127.0.0.1	hotehotehotel123.dynuddns.com
+127.0.0.1	grand-reve.revesage.coupons
+127.0.0.1	kalt-start.winterzug.coupons
+127.0.0.1	eis-bahn.winterzug.coupons
 127.0.0.1	eco-nature.clairforet.coupons
 127.0.0.1	bois-vert.clairforet.coupons
 127.0.0.1	stern-fahrt.stolzmond.coupons
@@ -56726,4 +56731,4 @@
 127.0.0.1	antique-proper-prizes-civilian.trycloudflare.com
 127.0.0.1	oxford-sri-fast-eve.trycloudflare.com
 127.0.0.1	access.skaparade.com
-# Number of entries: 56720
+# Number of entries: 56725

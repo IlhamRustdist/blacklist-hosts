@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 07:33:21 (UTC)                      #
+# Last updated: 2026-02-14 08:34:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -31,7 +31,6 @@
 127.0.0.1	aliyundunupdate.xyz
 127.0.0.1	allendostmen.com
 127.0.0.1	allister.ee
-127.0.0.1	altamoorgoods.com
 127.0.0.1	alternativas.ru
 127.0.0.1	altstadt.ja8u2rudila.ru
 127.0.0.1	antvietnam.com
@@ -62,7 +61,6 @@
 127.0.0.1	bins.herios.st
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
-127.0.0.1	blitz-deal.blaukraft.coupons
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	bois-vert.clairforet.coupons
@@ -109,6 +107,7 @@
 127.0.0.1	csg-app.com
 127.0.0.1	ct3-24.ru
 127.0.0.1	d.14yaa.com
+127.0.0.1	d.wanyouxi7.com
 127.0.0.1	dansorium.gr
 127.0.0.1	data.yhydl.com
 127.0.0.1	dcrun.co.uk
@@ -138,7 +137,6 @@
 127.0.0.1	down.fwqlt.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	down.qqfarmer.com.cn
-127.0.0.1	download.caihong.com
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.haozip.com
 127.0.0.1	download.innovare.no
@@ -159,6 +157,7 @@
 127.0.0.1	echo918.discount5den.coupons
 127.0.0.1	eco-nature.clairforet.coupons
 127.0.0.1	edlerkranz.be5t2lancrown.ru
+127.0.0.1	eis-bahn.winterzug.coupons
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
 127.0.0.1	embedone.com
@@ -197,6 +196,7 @@
 127.0.0.1	globalwork.f2ctoryp1anet.ru
 127.0.0.1	goldcoin.8etmon1sto.ru
 127.0.0.1	gordon-and-son.com
+127.0.0.1	grand-reve.revesage.coupons
 127.0.0.1	grandmonde.f2ctoryp1anet.ru
 127.0.0.1	gre.greenenergygroup.org
 127.0.0.1	grikom.info
@@ -231,7 +231,6 @@
 127.0.0.1	itssprout.com
 127.0.0.1	izocab.com
 127.0.0.1	izogard.com
-127.0.0.1	jalebel7abeb.com
 127.0.0.1	jawaratekno.com
 127.0.0.1	jlwz.cn
 127.0.0.1	joyeriatauro.com
@@ -239,6 +238,7 @@
 127.0.0.1	k4m8q.plint7marco.coupons
 127.0.0.1	k4n7a3n.favour128influen.coupons
 127.0.0.1	k9x5nff.tronk6vesta.coupons
+127.0.0.1	kalt-start.winterzug.coupons
 127.0.0.1	kamin-premium.ru
 127.0.0.1	karoonpc.com
 127.0.0.1	kavacanada.ca
@@ -287,9 +287,9 @@
 127.0.0.1	mobshah.com
 127.0.0.1	modulowinapp.com
 127.0.0.1	mogimall.com
-127.0.0.1	mond-schein.stolzmond.coupons
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
+127.0.0.1	mvmconstructores.com
 127.0.0.1	my-expense.nishant-labs.com
 127.0.0.1	n.vs108.com
 127.0.0.1	n0va-rn.brisk4tango.coupons
@@ -301,6 +301,7 @@
 127.0.0.1	nelees.com
 127.0.0.1	noithaticon.vn
 127.0.0.1	nssss6p3t.buckshot3hha.coupons
+127.0.0.1	nuit-douce.revesage.coupons
 127.0.0.1	numbers-23.plax482verdi.coupons
 127.0.0.1	nx402bji.digimatrix.digital
 127.0.0.1	ny.lshdw.cc
@@ -355,7 +356,6 @@
 127.0.0.1	pr0ph3t.fortune23tv.coupons
 127.0.0.1	primedatahost4.lol
 127.0.0.1	proship.ae
-127.0.0.1	proveedoradeproyectosysoluciones.com
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qem2a.brisk7dento.coupons
@@ -422,7 +422,6 @@
 127.0.0.1	solutelco.com
 127.0.0.1	sonnyangel.us
 127.0.0.1	sourire.brav7mon3ky.ru
-127.0.0.1	spoar.org.in
 127.0.0.1	st0ne-rn.mile163stone.coupons
 127.0.0.1	static.ilclock.com
 127.0.0.1	static.topxgun.com
@@ -431,7 +430,6 @@
 127.0.0.1	steam66.cn
 127.0.0.1	stern-fahrt.stolzmond.coupons
 127.0.0.1	stille.fron4tek7ly.ru
-127.0.0.1	stonecradle.com
 127.0.0.1	stonework.ja8u2rudila.ru
 127.0.0.1	studiogioeli.it
 127.0.0.1	super-prix.pommerouge.coupons
@@ -461,7 +459,6 @@
 127.0.0.1	theoremaoliveoil.com
 127.0.0.1	thtp2.volamngayxua.net
 127.0.0.1	toolshare.com.tr
-127.0.0.1	top-angebot.blaukraft.coupons
 127.0.0.1	topking.be5t2lancrown.ru
 127.0.0.1	toutsavoir.f2bricat9sar.ru
 127.0.0.1	tr0ff3.cn
@@ -481,7 +478,6 @@
 127.0.0.1	vagler.ru
 127.0.0.1	vcc-library.uk
 127.0.0.1	vector.drift2cargo.coupons
-127.0.0.1	vent-frais.ventdoux.coupons
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -510,7 +506,6 @@
 127.0.0.1	www.astenterprises.com.pk
 127.0.0.1	www.automobile-bk.de
 127.0.0.1	www.backupallfresh2030.com
-127.0.0.1	www.benshamcentre.co.uk
 127.0.0.1	www.blackhattoolz.com
 127.0.0.1	www.bratusferramentas.grupomoltz.com.br
 127.0.0.1	www.cippe.com.cn
@@ -594,4 +589,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 588
+# Number of entries: 583
