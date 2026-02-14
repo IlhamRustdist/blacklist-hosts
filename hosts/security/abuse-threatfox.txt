@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-13 22:47:33 UTC                        #
+# Last updated: 2026-02-14 01:15:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vent-frais.ventdoux.coupons
+127.0.0.1	blitz-deal.blaukraft.coupons
+127.0.0.1	top-angebot.blaukraft.coupons
+127.0.0.1	super-prix.pommerouge.coupons
+127.0.0.1	extra-bonus.pommerouge.coupons
 127.0.0.1	www.timaglobalservices.com
 127.0.0.1	www.timaglobalservicesbackup1.com
 127.0.0.1	www.timaglobalservicesbackup2.com
@@ -56714,7 +56719,6 @@
 127.0.0.1	oxford-sri-fast-eve.trycloudflare.com
 127.0.0.1	access.skaparade.com
 127.0.0.1	redroademail.com
-127.0.0.1	wasabidesktop.io
 127.0.0.1	vendomen.com
 127.0.0.1	captchaverift.com
 127.0.0.1	items-ana.gl.at.ply.gg
@@ -56727,5 +56731,4 @@
 127.0.0.1	jajaj2024.kozow.com
 127.0.0.1	mar-cant.gl.at.ply.gg
 127.0.0.1	ec2-3-8-147-54.eu-west-2.compute.amazonaws.com
-127.0.0.1	amaprox.click
-# Number of entries: 56722
+# Number of entries: 56725
