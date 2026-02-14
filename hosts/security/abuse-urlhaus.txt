@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 16:26:06 (UTC)                      #
+# Last updated: 2026-02-14 17:20:07 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -44,6 +44,7 @@
 127.0.0.1	argentvif.8etmon1sto.ru
 127.0.0.1	ark7r5k.kolos56tomat.coupons
 127.0.0.1	artacom.com.br
+127.0.0.1	artifact.homo483geneous.coupons
 127.0.0.1	asiaengrs.com
 127.0.0.1	asl-company.ru
 127.0.0.1	assin6k7n.rye93shishaty.coupons
@@ -57,7 +58,6 @@
 127.0.0.1	banappeals.net
 127.0.0.1	bankgarantia.ru
 127.0.0.1	bbb.xfrwu.cn
-127.0.0.1	beak.in
 127.0.0.1	benn4x.brisk7dento.coupons
 127.0.0.1	beyond.trak8lin4zo.ru
 127.0.0.1	bfacollege.co.in
@@ -207,6 +207,7 @@
 127.0.0.1	grikom.info
 127.0.0.1	gupixlot.lol
 127.0.0.1	gutando.com
+127.0.0.1	h0m0-vvex.homo483geneous.coupons
 127.0.0.1	harbor.plint7marco.coupons
 127.0.0.1	hasalltalent.com
 127.0.0.1	hass-8r3p.plax482verdi.coupons
@@ -241,6 +242,7 @@
 127.0.0.1	jlwz.cn
 127.0.0.1	joyeriatauro.com
 127.0.0.1	jyothishmathi.in
+127.0.0.1	k0zhev-rnix.kozhevnik6lan.coupons
 127.0.0.1	k4m8q.plint7marco.coupons
 127.0.0.1	k4n7a3n.favour128influen.coupons
 127.0.0.1	k9x5nff.tronk6vesta.coupons
@@ -274,7 +276,6 @@
 127.0.0.1	m1w1mwdm.dozerebelt.digital
 127.0.0.1	m2-q8v.flint09marko.coupons
 127.0.0.1	m3q7v.clint9vargo.coupons
-127.0.0.1	m6r8p.prisk7tarvo.coupons
 127.0.0.1	mag1q9t.rye93shishaty.coupons
 127.0.0.1	maidforyou1985.com
 127.0.0.1	main.dsn.ovh
@@ -285,7 +286,6 @@
 127.0.0.1	marlin204.promoportal4.coupons
 127.0.0.1	meetvideogoogle.com
 127.0.0.1	merctransfers.gradycares.com
-127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	mirage.glor5ven2ta.ru
 127.0.0.1	mitreart.com
 127.0.0.1	mmm4x8p.kolos56tomat.coupons
@@ -340,9 +340,9 @@
 127.0.0.1	opencart.notebookparcalari.com
 127.0.0.1	oracle.fortune23tv.coupons
 127.0.0.1	orion.onl
-127.0.0.1	outpost.prisk7tarvo.coupons
 127.0.0.1	owlcity.ru
 127.0.0.1	p3.zbjimg.com
+127.0.0.1	p8x1m.homo483geneous.coupons
 127.0.0.1	p8x4n.mile163stone.coupons
 127.0.0.1	palharesinformatica.com.br
 127.0.0.1	panychurasc0.com
