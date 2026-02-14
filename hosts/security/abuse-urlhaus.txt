@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 20:27:13 (UTC)                      #
+# Last updated: 2026-02-14 21:21:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -251,6 +251,7 @@
 127.0.0.1	kuzina-teatr.ru
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
+127.0.0.1	lantern.plea36slavneck.coupons
 127.0.0.1	launcher1.muonliness6.com
 127.0.0.1	legend.griv8ton5za.ru
 127.0.0.1	lenx.tukitravel.com
@@ -591,4 +592,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 585
+# Number of entries: 586
