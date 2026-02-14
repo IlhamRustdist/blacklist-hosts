@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 09:33:18 (UTC)                      #
+# Last updated: 2026-02-14 10:24:19 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -95,6 +95,7 @@
 127.0.0.1	clubdetiroelpicarcho.com
 127.0.0.1	co-emas.com
 127.0.0.1	cobalt911.offer6orchard.coupons
+127.0.0.1	coffre-fort.noitresor.coupons
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	computersupportexperts.com
 127.0.0.1	connects-magiceden.io
@@ -156,7 +157,6 @@
 127.0.0.1	echo918.discount5den.coupons
 127.0.0.1	eco-nature.clairforet.coupons
 127.0.0.1	edlerkranz.be5t2lancrown.ru
-127.0.0.1	eis-bahn.winterzug.coupons
 127.0.0.1	electri.billregulator.com
 127.0.0.1	elisans.novayonetim.com
 127.0.0.1	embedone.com
@@ -432,6 +432,7 @@
 127.0.0.1	steam66.cn
 127.0.0.1	stern-fahrt.stolzmond.coupons
 127.0.0.1	stille.fron4tek7ly.ru
+127.0.0.1	stonecradle.com
 127.0.0.1	stonework.ja8u2rudila.ru
 127.0.0.1	studiogioeli.it
 127.0.0.1	super-prix.pommerouge.coupons
@@ -592,4 +593,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 586
+# Number of entries: 587
