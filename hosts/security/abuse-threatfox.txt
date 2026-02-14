@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-14 11:17:04 UTC                        #
+# Last updated: 2026-02-14 12:49:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cascade.flint1zarco.coupons
+127.0.0.1	ns2.bbcbook.net
+127.0.0.1	ns1.bbcbook.net
+127.0.0.1	t4k2n.flint1zarco.coupons
+127.0.0.1	cr1nt-vvay.crint3valko.coupons
+127.0.0.1	saffron.crint3valko.coupons
+127.0.0.1	www.xoilaczzasz.tv
+127.0.0.1	q7m9v.crint3valko.coupons
+127.0.0.1	b1int-rnix.blint8darvo.coupons
+127.0.0.1	harvest.blint8darvo.coupons
 127.0.0.1	x8p3a.blint8darvo.coupons
 127.0.0.1	securityalarms.us.com
 127.0.0.1	nhl.it.com
@@ -56734,11 +56744,4 @@
 127.0.0.1	stat.messager.my
 127.0.0.1	base.death-angel.shop
 127.0.0.1	app.makemoremoneychallenge.vip
-127.0.0.1	shyda6317.club
-127.0.0.1	thomas-compromise.gl.at.ply.gg
-127.0.0.1	agents-bought.gl.at.ply.gg
-127.0.0.1	english-trackbacks.gl.at.ply.gg
-127.0.0.1	msasteelalloys.cc
-127.0.0.1	programs-realty.gl.at.ply.gg
-127.0.0.1	series-segments.gl.at.ply.gg
-# Number of entries: 56735
+# Number of entries: 56738
