@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 12:50:07 (UTC)                      #
+# Last updated: 2026-02-14 14:26:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -50,7 +50,6 @@
 127.0.0.1	augsburg-auto.com
 127.0.0.1	aulist.com
 127.0.0.1	avbackup.acionline.de
-127.0.0.1	b1int-rnix.blint8darvo.coupons
 127.0.0.1	b5rr7a.prong8tatsky.coupons
 127.0.0.1	backupso.com
 127.0.0.1	banappeals.net
@@ -58,14 +57,13 @@
 127.0.0.1	beak.in
 127.0.0.1	benn4x.brisk7dento.coupons
 127.0.0.1	beyond.trak8lin4zo.ru
-127.0.0.1	bfacollege.co.in
 127.0.0.1	biducaconfeitos.com.br
 127.0.0.1	bins.herios.st
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
+127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
-127.0.0.1	bois-vert.clairforet.coupons
 127.0.0.1	bombayonline.in
 127.0.0.1	book.rollingvideogames.com
 127.0.0.1	bracell.latitude.net.br
@@ -99,7 +97,6 @@
 127.0.0.1	clubdetiroelpicarcho.com
 127.0.0.1	co-emas.com
 127.0.0.1	cobalt911.offer6orchard.coupons
-127.0.0.1	coffre-fort.noitresor.coupons
 127.0.0.1	compuserviceonline.com.br
 127.0.0.1	computersupportexperts.com
 127.0.0.1	connects-magiceden.io
@@ -143,6 +140,7 @@
 127.0.0.1	down.fwqlt.com
 127.0.0.1	down.pcclear.com
 127.0.0.1	down.qqfarmer.com.cn
+127.0.0.1	download.caihong.com
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.haozip.com
 127.0.0.1	download.innovare.no
@@ -172,6 +170,7 @@
 127.0.0.1	estudio.ythan.com.br
 127.0.0.1	evangroup.ru
 127.0.0.1	extra-bonus.pommerouge.coupons
+127.0.0.1	f1int-0rb.flint1zarco.coupons
 127.0.0.1	fakers.co.jp
 127.0.0.1	falconsplayingpoker.com
 127.0.0.1	farschid.de
@@ -198,7 +197,6 @@
 127.0.0.1	glanz.trak8lin4zo.ru
 127.0.0.1	globaltechbilling.com
 127.0.0.1	globalwork.f2ctoryp1anet.ru
-127.0.0.1	gold-zeit.herbstlauf.coupons
 127.0.0.1	goldcoin.8etmon1sto.ru
 127.0.0.1	gordon-and-son.com
 127.0.0.1	grandmonde.f2ctoryp1anet.ru
@@ -207,17 +205,14 @@
 127.0.0.1	gupixlot.lol
 127.0.0.1	gutando.com
 127.0.0.1	harbor.plint7marco.coupons
-127.0.0.1	harvest.blint8darvo.coupons
 127.0.0.1	hasalltalent.com
 127.0.0.1	hass-8r3p.plax482verdi.coupons
 127.0.0.1	hitman-pro.ru
 127.0.0.1	hitstation.nl
-127.0.0.1	hobobot.net
 127.0.0.1	horizon.plon6var1ty.ru
 127.0.0.1	hotellacastellana.com.uy
 127.0.0.1	hqweb.id.vn
 127.0.0.1	hseda.com
-127.0.0.1	i-love-git.com
 127.0.0.1	i.404.pm
 127.0.0.1	icoffeecloud.com
 127.0.0.1	id3basketball.com
@@ -244,7 +239,6 @@
 127.0.0.1	k4m8q.plint7marco.coupons
 127.0.0.1	k4n7a3n.favour128influen.coupons
 127.0.0.1	k9x5nff.tronk6vesta.coupons
-127.0.0.1	kalt-start.winterzug.coupons
 127.0.0.1	kamin-premium.ru
 127.0.0.1	karoonpc.com
 127.0.0.1	kavacanada.ca
@@ -275,6 +269,7 @@
 127.0.0.1	m1w1mwdm.dozerebelt.digital
 127.0.0.1	m2-q8v.flint09marko.coupons
 127.0.0.1	m3q7v.clint9vargo.coupons
+127.0.0.1	m6r8p.prisk7tarvo.coupons
 127.0.0.1	mag1q9t.rye93shishaty.coupons
 127.0.0.1	maidforyou1985.com
 127.0.0.1	main.dsn.ovh
@@ -295,7 +290,6 @@
 127.0.0.1	mogimall.com
 127.0.0.1	mundocarnes.cl
 127.0.0.1	muzzumilruheel.com
-127.0.0.1	mvmconstructores.com
 127.0.0.1	my-expense.nishant-labs.com
 127.0.0.1	n.vs108.com
 127.0.0.1	n0va-rn.brisk4tango.coupons
@@ -308,6 +302,7 @@
 127.0.0.1	noithaticon.vn
 127.0.0.1	nssss6p3t.buckshot3hha.coupons
 127.0.0.1	numbers-23.plax482verdi.coupons
+127.0.0.1	nusatoyota.co.id
 127.0.0.1	nx402bji.digimatrix.digital
 127.0.0.1	ny.lshdw.cc
 127.0.0.1	nylon6burst.bonus7basket.coupons
@@ -316,7 +311,6 @@
 127.0.0.1	okhan.net
 127.0.0.1	oknoplastik.sk
 127.0.0.1	onfiltre.com.tr
-127.0.0.1	onlineappdownload.507.net.cn
 127.0.0.1	onyxarmorcrypt.de
 127.0.0.1	onyxcryptorix.de
 127.0.0.1	onyxcyberapex.de
@@ -339,6 +333,7 @@
 127.0.0.1	openaigrok.com
 127.0.0.1	opencart.notebookparcalari.com
 127.0.0.1	oracle.fortune23tv.coupons
+127.0.0.1	outpost.prisk7tarvo.coupons
 127.0.0.1	owlcity.ru
 127.0.0.1	p3.zbjimg.com
 127.0.0.1	p8x4n.mile163stone.coupons
@@ -353,17 +348,19 @@
 127.0.0.1	pin-up0045.com
 127.0.0.1	planetariumobil.ro
 127.0.0.1	plasma707.promoportal4.coupons
+127.0.0.1	play.mclighthouse.ir
 127.0.0.1	pns.org.pk
 127.0.0.1	pobedastaff.ru
 127.0.0.1	polar9dash.bargainbridge1.coupons
 127.0.0.1	polonyauniversiteleri.com.tr
 127.0.0.1	posts-luxs.com
 127.0.0.1	pr0ph3t.fortune23tv.coupons
+127.0.0.1	pr1sk-rnate.prisk7tarvo.coupons
 127.0.0.1	primedatahost4.lol
 127.0.0.1	proship.ae
+127.0.0.1	protherapycenter.com
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
-127.0.0.1	q7m9v.crint3valko.coupons
 127.0.0.1	qem2a.brisk7dento.coupons
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
@@ -401,7 +398,6 @@
 127.0.0.1	sancaktepekombiservis.com
 127.0.0.1	save.jnrsmcu.com
 127.0.0.1	scainseto.com.br
-127.0.0.1	schenckel.com.br
 127.0.0.1	scorpcasinos.com
 127.0.0.1	sdh.ro
 127.0.0.1	sdvgpro.ru
@@ -434,7 +430,6 @@
 127.0.0.1	static.youdm.cn
 127.0.0.1	stdown.dinju.com
 127.0.0.1	steam66.cn
-127.0.0.1	stern-fahrt.stolzmond.coupons
 127.0.0.1	stille.fron4tek7ly.ru
 127.0.0.1	stonecradle.com
 127.0.0.1	stonework.ja8u2rudila.ru
@@ -485,6 +480,7 @@
 127.0.0.1	upsinfo2025.com
 127.0.0.1	vagler.ru
 127.0.0.1	vector.drift2cargo.coupons
+127.0.0.1	verbatim.nabokov30slam.coupons
 127.0.0.1	versaclean.com.br
 127.0.0.1	veryboys.com
 127.0.0.1	vgd.vg
@@ -568,7 +564,6 @@
 127.0.0.1	x49k7m.buckshot3hha.coupons
 127.0.0.1	x77r44p.rye93shishaty.coupons
 127.0.0.1	x7p9a.brisk4tango.coupons
-127.0.0.1	x8p3a.blint8darvo.coupons
 127.0.0.1	xai830k.com
 127.0.0.1	xanax.enzostress.st
 127.0.0.1	xdcq3.com
@@ -585,6 +580,7 @@
 127.0.0.1	yongtai.cn
 127.0.0.1	yourdox.icu
 127.0.0.1	youtransfer.net
+127.0.0.1	z3n7a.nabokov30slam.coupons
 127.0.0.1	z4kt1r.tronk6vesta.coupons
 127.0.0.1	z9t2d.drift2cargo.coupons
 127.0.0.1	zamilgroups.com
@@ -596,4 +592,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 590
+# Number of entries: 586
