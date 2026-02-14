@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-14 18:27:16 (UTC)                      #
+# Last updated: 2026-02-14 19:19:05 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -26,8 +26,6 @@
 127.0.0.1	admin.byte.in.ua
 127.0.0.1	admin.gestroom.it
 127.0.0.1	adver.com.br
-127.0.0.1	agence-immobiliere-lyon.com
-127.0.0.1	ahnbbd.com
 127.0.0.1	alarmline.com.br
 127.0.0.1	alineeleuterio.com.br
 127.0.0.1	aliyundunupdate.xyz
@@ -44,7 +42,6 @@
 127.0.0.1	argentvif.8etmon1sto.ru
 127.0.0.1	ark7r5k.kolos56tomat.coupons
 127.0.0.1	artacom.com.br
-127.0.0.1	asiaengrs.com
 127.0.0.1	asl-company.ru
 127.0.0.1	assin6k7n.rye93shishaty.coupons
 127.0.0.1	atlas906.valuevault8.coupons
@@ -65,7 +62,6 @@
 127.0.0.1	bixyzmodul.com
 127.0.0.1	blaiz.me
 127.0.0.1	blessdayservices.org
-127.0.0.1	blit.co.za
 127.0.0.1	blogs.sokun.jp
 127.0.0.1	bmdcompany.com
 127.0.0.1	bombayonline.in
@@ -78,7 +74,6 @@
 127.0.0.1	bvaco.com
 127.0.0.1	c1ear-v.clint9vargo.coupons
 127.0.0.1	c9n4p.connect8mathem.coupons
-127.0.0.1	c9t5q.kozhevnik6lan.coupons
 127.0.0.1	calc-rn1.connect8mathem.coupons
 127.0.0.1	cambodiatouristservice.com
 127.0.0.1	carry.plax482verdi.coupons
@@ -112,7 +107,6 @@
 127.0.0.1	csg-app.com
 127.0.0.1	ct3-24.ru
 127.0.0.1	cxr.tukitravel.com
-127.0.0.1	cyx.tukitravel.com
 127.0.0.1	d.14yaa.com
 127.0.0.1	d.wanyouxi7.com
 127.0.0.1	dansorium.gr
@@ -141,7 +135,6 @@
 127.0.0.1	down.54nb.com
 127.0.0.1	down.fwqlt.com
 127.0.0.1	down.pcclear.com
-127.0.0.1	down.qqfarmer.com.cn
 127.0.0.1	download.caihong.com
 127.0.0.1	download.doumaibiji.cn
 127.0.0.1	download.haozip.com
@@ -195,11 +188,9 @@
 127.0.0.1	gardenscup.com
 127.0.0.1	garnet88.promoportal4.coupons
 127.0.0.1	geheimcode.cav1ng5cript.ru
-127.0.0.1	glacier.kozhevnik6lan.coupons
 127.0.0.1	glanz.trak8lin4zo.ru
 127.0.0.1	globaltechbilling.com
 127.0.0.1	globalwork.f2ctoryp1anet.ru
-127.0.0.1	gohpit.lol
 127.0.0.1	goldcoin.8etmon1sto.ru
 127.0.0.1	gordon-and-son.com
 127.0.0.1	grandmonde.f2ctoryp1anet.ru
@@ -242,13 +233,11 @@
 127.0.0.1	jlwz.cn
 127.0.0.1	joyeriatauro.com
 127.0.0.1	jyothishmathi.in
-127.0.0.1	k0zhev-rnix.kozhevnik6lan.coupons
 127.0.0.1	k4m8q.plint7marco.coupons
 127.0.0.1	k4n7a3n.favour128influen.coupons
 127.0.0.1	k9x5nff.tronk6vesta.coupons
 127.0.0.1	kamin-premium.ru
 127.0.0.1	karoonpc.com
-127.0.0.1	kavacanada.ca
 127.0.0.1	khavar.com
 127.0.0.1	khoancatbetong89.vn
 127.0.0.1	kimyen.net
@@ -286,6 +275,7 @@
 127.0.0.1	marlin204.promoportal4.coupons
 127.0.0.1	meetvideogoogle.com
 127.0.0.1	merctransfers.gradycares.com
+127.0.0.1	metrics.gocloudmaps.com
 127.0.0.1	mirage.glor5ven2ta.ru
 127.0.0.1	mitreart.com
 127.0.0.1	mmm4x8p.kolos56tomat.coupons
@@ -298,7 +288,6 @@
 127.0.0.1	my-expense.nishant-labs.com
 127.0.0.1	n.vs108.com
 127.0.0.1	n0va-rn.brisk4tango.coupons
-127.0.0.1	nab0k0v-llnk.nabokov30slam.coupons
 127.0.0.1	ncxps.com
 127.0.0.1	ndirection.kr
 127.0.0.1	ndown2.ra2ol.com
@@ -353,7 +342,6 @@
 127.0.0.1	pcupd.com
 127.0.0.1	pid.fly160.com
 127.0.0.1	pin-up0045.com
-127.0.0.1	pkr.greenenergygroup.org
 127.0.0.1	planetariumobil.ro
 127.0.0.1	plasma707.promoportal4.coupons
 127.0.0.1	play.mclighthouse.ir
@@ -365,6 +353,7 @@
 127.0.0.1	pr0ph3t.fortune23tv.coupons
 127.0.0.1	primedatahost4.lol
 127.0.0.1	proship.ae
+127.0.0.1	protherapycenter.com
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
 127.0.0.1	qem2a.brisk7dento.coupons
@@ -473,6 +462,7 @@
 127.0.0.1	tr0ff3.cn
 127.0.0.1	transparenciacanaa.com.br
 127.0.0.1	trtmyanmar.com
+127.0.0.1	tsmau.com
 127.0.0.1	tukotoks-uz.sbs
 127.0.0.1	tundra803.savvy3spree.coupons
 127.0.0.1	tyahelp.top
@@ -531,7 +521,6 @@
 127.0.0.1	www.longfeng188.com
 127.0.0.1	www.luuk-lifestyle.eu
 127.0.0.1	www.medises.co.kr
-127.0.0.1	www.mevetlab.cl
 127.0.0.1	www.mixturro.com
 127.0.0.1	www.mobimpex.ro
 127.0.0.1	www.myvcart.com
@@ -597,4 +586,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 591
+# Number of entries: 580

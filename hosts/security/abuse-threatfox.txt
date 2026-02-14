@@ -56854,5 +56854,4 @@
 127.0.0.1	telamtykina.live
 127.0.0.1	strm.messager.my
 127.0.0.1	host0.tryfancify.com
-127.0.0.1	xuyo.org
-# Number of entries: 56849
+# Number of entries: 56848
