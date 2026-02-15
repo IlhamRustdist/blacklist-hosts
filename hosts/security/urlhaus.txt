@@ -1,6 +1,6 @@
 ################################################################
 # abuse.ch URLhaus Host file                                   #
-# Last updated: 2026-02-15 08:30:17 (UTC)                      #
+# Last updated: 2026-02-15 10:24:09 (UTC)                      #
 #                                                              #
 # Terms Of Use: https://urlhaus.abuse.ch/api/                  #
 # For questions please contact urlhaus [at] abuse.ch           #
@@ -256,6 +256,7 @@
 127.0.0.1	la-pan-adventures.com
 127.0.0.1	landonirwin.com
 127.0.0.1	lantern.plea36slavneck.coupons
+127.0.0.1	lantern.rocket7flora.coupons
 127.0.0.1	launcher1.muonliness6.com
 127.0.0.1	legend.griv8ton5za.ru
 127.0.0.1	lenx.tukitravel.com
@@ -295,6 +296,7 @@
 127.0.0.1	ncxps.com
 127.0.0.1	ndirection.kr
 127.0.0.1	ndown2.ra2ol.com
+127.0.0.1	nebula-vv1ng.nebula4tango.coupons
 127.0.0.1	nebula.blen7kor2za.ru
 127.0.0.1	nelees.com
 127.0.0.1	noithaticon.vn
@@ -354,12 +356,14 @@
 127.0.0.1	proship.ae
 127.0.0.1	public.demo.securecloudsandbox.com
 127.0.0.1	pvsa.gxfugy.cn
+127.0.0.1	q4m8v.rocket7flora.coupons
 127.0.0.1	q7m9v.crint3valko.coupons
 127.0.0.1	qiniuyunxz.yxflzs.com
 127.0.0.1	qlqd5zqefmkcr34a.onion.sh
 127.0.0.1	quanlyphongnet.com
 127.0.0.1	quickfix.du5tmanrepai7.ru
 127.0.0.1	quicrob.com
+127.0.0.1	r0cket-rnix.rocket7flora.coupons
 127.0.0.1	r2k6d.plea36slavneck.coupons
 127.0.0.1	r5m2x.fortune23tv.coupons
 127.0.0.1	ramactools.net
@@ -501,6 +505,7 @@
 127.0.0.1	www.cippe.com.cn
 127.0.0.1	www.crazywickedaddiction.com
 127.0.0.1	www.cutting-edge.in
+127.0.0.1	www.directfiles.link
 127.0.0.1	www.drgenov.com
 127.0.0.1	www.first-security-verden.de
 127.0.0.1	www.flybirdexpbd.com
@@ -576,4 +581,4 @@
 127.0.0.1	zoommeetingsetup.info
 127.0.0.1	zptjv.com
 127.0.0.1	zukunft.blen7kor2za.ru
-# Number of entries: 570
+# Number of entries: 575

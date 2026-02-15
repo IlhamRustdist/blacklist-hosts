@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-15 08:10:26 UTC                        #
+# Last updated: 2026-02-15 10:22:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	octopox.com
+127.0.0.1	a2aagentive.com
+127.0.0.1	vcopp.com
+127.0.0.1	pearpops.com
+127.0.0.1	zaffersnouty.com
+127.0.0.1	fusser-api.com
+127.0.0.1	plantcenters.com
+127.0.0.1	customwrapsnearme.com
+127.0.0.1	kayeart.com
+127.0.0.1	r0cket-rnix.rocket7flora.coupons
+127.0.0.1	coloradospringsfences.com
+127.0.0.1	cocinadecor.com
+127.0.0.1	iowainsurancegroup.com
+127.0.0.1	ontarioqualitycedar.com
+127.0.0.1	lantern.rocket7flora.coupons
+127.0.0.1	q4m8v.rocket7flora.coupons
+127.0.0.1	nebula-vv1ng.nebula4tango.coupons
 127.0.0.1	harvest.nebula4tango.coupons
 127.0.0.1	x7p9a.nebula4tango.coupons
 127.0.0.1	hanano-63144.portmap.host
@@ -56864,5 +56881,4 @@
 127.0.0.1	172-104-53-127.ip.linodeusercontent.com
 127.0.0.1	z10nx710011-53037.portmap.host
 127.0.0.1	phentermine-institute.gl.at.ply.gg
-127.0.0.1	demo.shop.plex.name
-# Number of entries: 56859
+# Number of entries: 56875
