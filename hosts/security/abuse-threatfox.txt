@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-15 14:17:14 UTC                        #
+# Last updated: 2026-02-15 15:22:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	formula.fusion2harbor.coupons
+127.0.0.1	r2k6d.fusion2harbor.coupons
+127.0.0.1	qa7sawuw.wildframe41.digital
+127.0.0.1	uon8hnbd.wildframe41.digital
+127.0.0.1	shad0vv-rnix.shadow6nectar.coupons
+127.0.0.1	inactivesophisticatedsolutions101.com
+127.0.0.1	jesstheromantic.com
+127.0.0.1	unaideg.cyou
+127.0.0.1	withsuj.cyou
 127.0.0.1	oracle.shadow6nectar.coupons
 127.0.0.1	p8x1m.shadow6nectar.coupons
 127.0.0.1	br33ze-llnk.breeze1falcon.coupons
@@ -56749,54 +56758,4 @@
 127.0.0.1	s2gj9tonn.localto.net
 127.0.0.1	ngdgbedgtw-35702.portmap.host
 127.0.0.1	laughing-lumiere.35-179-93-188.plesk.page
-127.0.0.1	img.cdn.plex.name
-127.0.0.1	niggerlover.ddns.net
-127.0.0.1	terbibfx.top
-127.0.0.1	genunaf.top
-127.0.0.1	campaqr.top
-127.0.0.1	dishoti.top
-127.0.0.1	folotni.top
-127.0.0.1	rockfw.top
-127.0.0.1	sublupm.top
-127.0.0.1	darkhbt.top
-127.0.0.1	inceputn.top
-127.0.0.1	mflopj.top
-127.0.0.1	skitvhg.top
-127.0.0.1	jadgqh.top
-127.0.0.1	steyxld.top
-127.0.0.1	seismrzw.top
-127.0.0.1	spordcp.top
-127.0.0.1	theymsq.top
-127.0.0.1	persprz.top
-127.0.0.1	kenyafu.top
-127.0.0.1	homeuhd.top
-127.0.0.1	untgxlb.top
-127.0.0.1	hannuxb.top
-127.0.0.1	calixzgk.top
-127.0.0.1	acromrr.top
-127.0.0.1	cyanogl.top
-127.0.0.1	perjxup.top
-127.0.0.1	creaprj.top
-127.0.0.1	lingzvl.top
-127.0.0.1	dristha.top
-127.0.0.1	clotmh.top
-127.0.0.1	capsiqp.top
-127.0.0.1	hyphap.lat
-127.0.0.1	refrico.lat
-127.0.0.1	angucccg.lat
-127.0.0.1	decatvl.top
-127.0.0.1	skunku.top
-127.0.0.1	arsetca.lat
-127.0.0.1	topofnm.lat
-127.0.0.1	tagawoh.top
-127.0.0.1	physscq.top
-127.0.0.1	bearrre.top
-127.0.0.1	drespi.top
-127.0.0.1	flagump.top
-127.0.0.1	greerfa.top
-127.0.0.1	nearsic.top
-127.0.0.1	acuttia.top
-127.0.0.1	incmrvk.top
-127.0.0.1	combvff.top
-127.0.0.1	divqtwp.top
-# Number of entries: 56793
+# Number of entries: 56752
