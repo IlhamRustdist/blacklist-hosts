@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-02-15 12:54:53 UTC                        #
+# Last updated: 2026-02-15 14:17:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oracle.shadow6nectar.coupons
+127.0.0.1	p8x1m.shadow6nectar.coupons
+127.0.0.1	br33ze-llnk.breeze1falcon.coupons
+127.0.0.1	glacier.breeze1falcon.coupons
+127.0.0.1	c9t5q.breeze1falcon.coupons
+127.0.0.1	k15kqv93.fluxdrive.digital
+127.0.0.1	hix7q90u.fluxdrive.digital
 127.0.0.1	rnatr1x-vvay.matrix8piano.coupons
 127.0.0.1	signal.matrix8piano.coupons
 127.0.0.1	z3n7a.matrix8piano.coupons
@@ -56792,4 +56799,4 @@
 127.0.0.1	incmrvk.top
 127.0.0.1	combvff.top
 127.0.0.1	divqtwp.top
-# Number of entries: 56786
+# Number of entries: 56793
